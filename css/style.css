@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-background{
+    background-color: #264653;
+}
+.btn-Purchase{
+    background-color: #E76F51;
+    color: white;
+}
+.modal-img{
+    width: 300px;
+    height: 250px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.latest-News-btn{
+    background-color: white;
+    color: #E76F51;
+    border: 2px solid #E76F51;
+}
+.clients-img{
+    width: 150px;
+    height: 150px;
+}
+.text-icon-color{
+    color: #E77C40;
+}
+.faq-img{
+    width: 431.2px;
+    height: 423.5px;
+}
+.login-side-img{
+    width: 350px;
+    height: 300px;
+}
+.bg-newsletter{
+    background-color: #264653;
+}
+.app-img{
+    width: 200px;
+    height: 100px;
+}
